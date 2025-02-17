@@ -11,7 +11,7 @@ Common Carotid Artery Ultrasound Images
 <br>
 <br>
 <hr>
-<b>Actual Tiled Image Segmentation for Images of 709x749 pixels</b><br>
+<b>Actual Image Segmentation for Images of 709x749 pixels</b><br>
 As shown below, the inferred masks look similar to the ground truth masks. <br>
 
 <table>
